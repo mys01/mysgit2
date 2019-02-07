@@ -22,6 +22,9 @@ public class Prueba {
           
         
         coche carro = new coche();
+        coche car = new coche();
+        
+        car.setMatricula(4765);
        carro.setMatricula(10);
    
         System.out.println(carro.getMatricula());
