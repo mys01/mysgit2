@@ -12,7 +12,7 @@ package prueba;
 public class Prueba {
     String holaa;
     int num= 2;
-  
+    String cambiodecodigo;
 
     /**
      * @param args the command line arguments
